@@ -5,6 +5,9 @@ toc_label: "Overview"
 toc_icon: "cog"
 author_profile: true
 title: "Publications"
+output:
+  html_document:
+    css: style.css
 ---
 
 # More to come ... hopefully :D

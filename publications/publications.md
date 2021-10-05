@@ -1,5 +1,0 @@
----
-layout: single
-title: Publications
-canonical_url: "https://yoursite.com/publications/"
----

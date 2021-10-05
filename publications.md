@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Publications
-canonical_url: "https://yoursite.com/publications/"
+# canonical_url: "https://jannessp.github.io/publications/"
 ---
 
 - Masters Thesis: Nanopore Sequencing: tracking down the m<sup>6</sup>A modification

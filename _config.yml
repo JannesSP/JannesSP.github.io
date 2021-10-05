@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jannes Spangenberg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of Science in Bioinformatics\nMember of RNA Bioinformatics & High-Throughput Analysis\nhttps://www.rna.uni-jena.de"
+  bio              : "Master of Science in Bioinformatics\nMember of <a href=\"https://www.rna.uni-jena.de\">RNA Bioinformatics & High-Throughput Analysis</a>\n"
   location         : "Friedrich-Schiller-University Jena"
   email            : "jannes.spangenberg@uni-jena.de"
   links:

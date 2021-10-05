@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "Member of RNA Bioinformatics & High-Throughput Analysis\nhttps://www.rna.uni-jena.de" # site tagline that appears below site title in masthead
 name                     : "Jannes Spangenberg"
 description              : "under construction"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jannessp.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -78,9 +78,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@Ja_Spangenberg"
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image

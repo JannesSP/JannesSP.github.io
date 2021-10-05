@@ -288,9 +288,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
----
-layout: single
-title: Publications
-canonical_url: "https://yoursite.com/publications/"
----

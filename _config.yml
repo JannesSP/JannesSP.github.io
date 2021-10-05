@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Page of Jannes Spangenberg"
+title                    : "Home"
 title_separator          : "|"
-subtitle                 : "Member of RNA Bioinformatics & High-Throughput Analysis\nhttps://www.rna.uni-jena.de" # site tagline that appears below site title in masthead
+subtitle                 : "under construction" # site tagline that appears below site title in masthead
 name                     : "Jannes Spangenberg"
 description              : "under construction"
 url                      : "https://jannessp.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jannes Spangenberg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of Science in Bioinformatics"
+  bio              : "Master of Science in Bioinformatics\nMember of RNA Bioinformatics & High-Throughput Analysis\nhttps://www.rna.uni-jena.de"
   location         : "Friedrich-Schiller-University Jena"
   email            : "jannes.spangenberg@uni-jena.de"
   links:

@@ -1,12 +1,13 @@
 ---
-layout: splash
+layout: single
 toc: true
 author_profile: true
 classes:
   - landing
   - dark-theme
-title: Publications
 ---
+
+# Publications
 
 ## Masters Thesis: Nanopore Sequencing: tracking down the m<sup>6</sup>A modification
     - in 2021

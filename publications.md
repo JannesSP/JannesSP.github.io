@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: Publications
-# canonical_url: "https://jannessp.github.io/publications.html"
 ---
-
-# Publications
 
 - Masters Thesis: Nanopore Sequencing: tracking down the m<sup>6</sup>A modification
     - in 2021

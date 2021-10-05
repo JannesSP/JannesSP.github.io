@@ -1,9 +1,10 @@
 ---
-layout: posts
+layout: single
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
 author_profile: true
+title: "Publications"
 ---
 
 # More to come ... hopefully :D

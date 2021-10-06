@@ -5,6 +5,7 @@ toc_label: "Overview"
 toc_icon: "cog"
 author_profile: true
 title: "Publications"
+permalink: /publications/
 output:
   html_document:
     css: style.css

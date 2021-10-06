@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40"
-   height="40"
-   viewBox="0 0 10.583333 10.583333"
+   width="30"
+   height="30"
+   viewBox="0 0 7.9374997 7.9374997"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -21,7 +21,7 @@
        inkscape:collect="always"
        id="linearGradient839-3">
       <stop
-         style="stop-color:#cd0000;stop-opacity:1"
+         style="stop-color:#da1200;stop-opacity:1"
          offset="0"
          id="stop835" />
       <stop
@@ -39,7 +39,7 @@
        fy="262.59106"
        r="12.151204"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.9981931,-3.486047e-8,0,4.250047,-102.49089,-853.43329)" />
+       gradientTransform="matrix(0.81888679,0,0,0.87047006,-24.021609,-224.60086)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,7 +49,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="39.571729"
+     inkscape:cx="36.357443"
      inkscape:cy="31.491289"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -61,9 +61,9 @@
      inkscape:showpageshadow="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1169"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1118"
+     inkscape:window-x="1920"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -82,27 +82,24 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g871"
-       transform="matrix(0.43378617,0,0,0.43378617,-9.5537465,-108.61611)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g844">
       <circle
-         style="fill:url(#radialGradient841);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#radialGradient841);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0865526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path10"
-         cx="34.184219"
-         cy="262.59106"
-         r="12.151204" />
+         cx="3.9713974"
+         cy="3.9767933"
+         r="3.96875" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="25.767159"
-         y="265.67719"
+         style="font-style:normal;font-weight:normal;font-size:2.99861px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0865526;stroke-miterlimit:4;stroke-dasharray:none"
+         x="0.42885011"
+         y="5.0697923"
          id="text850"><tspan
            sodipodi:role="line"
            id="tspan848"
-           x="25.767159"
-           y="265.67719"
-           style="font-size:8.46667px;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">PDF</tspan></text>
+           x="0.42885011"
+           y="5.0697923"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0865526;stroke-miterlimit:4;stroke-dasharray:none">PDF</tspan></text>
     </g>
   </g>
 </svg>

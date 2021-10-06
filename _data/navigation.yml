@@ -12,5 +12,5 @@ main:
   #   url: /sitemap/
   - title: "Publications"
     url: /publications/
-  - title: "About me"
-    url: /about_me/
+  - title: "About"
+    url: /about/

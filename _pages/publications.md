@@ -6,8 +6,6 @@ toc_icon: "cog"
 author_profile: true
 title: "Publications"
 permalink: /publications/
-html_document:
-  css: style.css
 ---
 
 ***

@@ -20,6 +20,8 @@ output:
 - supervised by [Sebastian Krautwurst](https://github.com/RaverJay), [Christian Höner zu Siederdissen](http://www.bioinf.uni-leipzig.de/~choener/) and [Manja Marz](https://www.rna.uni-jena.de)
 - [![PDF][pdf_icon]](rna_nanopore_sequencing_tracking_down_the_m6a_modification.pdf)
 
+<img src="/icons/pdf.png" alt="Icon made by Freepik from www.flaticon.com" width="200" height="200"/>
+
 ***
 
 [pdf_icon]: <img src="/icons/pdf.png" alt="Icon made by Freepik from www.flaticon.com" width="200" height="200"/> 

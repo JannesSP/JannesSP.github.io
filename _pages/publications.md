@@ -18,11 +18,10 @@ Oxford Nanopore Technologies (ONT) allows direct sequencing of ribonucleic acids
 
 **Code Availability**
 
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/JannesSP/magnipore/main)
-![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/JannesSP/magnipore)
-![GitHub](https://img.shields.io/github/license/JannesSP/magnipore)](https://github.com/JannesSP/magnipore)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/JannesSP/magnipore/main)![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/JannesSP/magnipore)![GitHub](https://img.shields.io/github/license/JannesSP/magnipore)](https://github.com/JannesSP/magnipore)
 [![Conda package](https://anaconda.org/jannessp/magnipore/badges/version.svg)](https://anaconda.org/jannessp/magnipore)
 [![DOI](https://zenodo.org/badge/545997776.svg)](https://zenodo.org/badge/latestdoi/545997776)
+
 ___
 ## Masters Thesis: Nanopore Sequencing: tracking down the m<sup>6</sup>A modification
 <a href="rna_nanopore_sequencing_tracking_down_the_m6a_modification.pdf"><img src="/icons/pdf.png" alt="PDF" titel="open PDF document"/></a>
